@@ -1,4 +1,4 @@
-১. TypeScript-এ Interface এবং Type এর পার্থক্য
+Q.1 TypeScript-এ Interface এবং Type এর পার্থক্য
 
 TypeScript-এ interface এবং type দুটোই ডেটার গঠন নির্ধারণ করতে ব্যবহৃত হয়। তবে কিছু গুরুত্বপূর্ণ পার্থক্য রয়েছে।
 
@@ -28,7 +28,7 @@ Interface মূলত object structure নির্ধারণে ব্যব
 
 
 ##
-৪. TypeScript-এ Enum এর ব্যবহার
+Q.4 TypeScript-এ Enum এর ব্যবহার
 
 Enum হলো related constant মানগুলোকে একটি গ্রুপে রাখার উপায়। এটি কোডকে আরও readable করে এবং ভুল মান ব্যবহার কমায়।
 
